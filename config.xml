@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <widget xmlns="http://www.w3.org/ns/widgets" height="200" id="http://ConverttoHindi" version="1.4" viewmodes="windowed fullscreen" width="200">
+    
+    <name short="English to Hindi Converter">Convert to Hindi</name>    
+
+    <description>An app that translates English to Hindi.</description>
+    
+    <!-- Note: Author href MUST BE Url encoded 
+        @see http://en.wikipedia.org/wiki/Percent-encoding -->    
+    <author email="vidhyaa03@yahoo.co.in" href="http://www.example.com">Vidkie</author>
+    
+    <icon src="icon.png"></icon>
+
+    <content src="index.html"/>
+    
+    <license>GNU, 2012</license>
+    
+   	<feature name="nokia://s40.nokia.com/SAWRT/2.3" required="true" />
+</widget>
